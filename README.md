@@ -1,12 +1,17 @@
 
+
+
+<img width="720px" src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif">
+
 <a href="https://medium.com/@fatihhcan"><h4> 📌Medium: @fatihhcan  </a></h4>
+
+
 <!--
 **fatihhcan/fatihhcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
 Here are some ideas to get you started:
-<img width="720px" src="https://media.giphy.com/media/3gLbNTxMARZACqzK4i/giphy.gif">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...  
