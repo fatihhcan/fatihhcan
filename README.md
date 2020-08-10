@@ -1,7 +1,7 @@
 
 
 
-<img width="720px" src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif">
+<img width="520px" src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif">
 
 <a href="https://medium.com/@fatihhcan"><h4> 📌Medium: @fatihhcan  </a></h4>
 
