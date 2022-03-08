@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋, I'm Fatih!</h1>
 <h3 align="center">I'm a passionate Mobile Application Developer.💙</h3>
 
-*Mehmet Akif Ersoy University Department of Management Information Systems 4th year  student. I am developing mobile applications with **Flutter** and **Kotlin**. I am a Mentor at the **Google Developer Student Clubs Mehmet Akif Ersoy University** club.(DSC MAKU) I like to blog and participate in events. You can access my blogs from my **Medium** profile.*
+*Mehmet Akif Ersoy University Department of Management Information Systems 4th year  student. I am developing mobile applications with **Flutter**. I am a Mentor at the **Google Developer Student Clubs Mehmet Akif Ersoy University** club.(DSC MAKU) I like to blog and participate in events. You can access my blogs from my **Medium** profile.*
 <hr>
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
