@@ -11,6 +11,7 @@
 
 <p align="left"> 
     <a href="https://flutter.dev" target="_blank"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"/> </a>
+    <a href="https://developer.apple.com/swift/" target="_blank"> <img width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-1024.png"/> </a>
     <a href="https://kotlinlang.org" target="_blank"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/> </a>
      <a href="https://www.android.com/intl/tr_tr/" target="_blank"> <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> </a>
       <a href="https://www.apple.com/tr/ios/ios-15/" target="_blank"> <img width="26px" src="https://www.iconninja.com/files/729/778/473/linux-system-platform-apple-os-mac-ios-icon.png"/> </a>
