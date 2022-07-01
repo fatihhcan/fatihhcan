@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋, I'm Fatih!</h1>
 <h3 align="center">I'm a passionate Mobile Application Developer.💙</h3>
 
-*I am developing mobile applications with **Flutter**. I like to blog and participate in events. You can access my blogs from my **Medium** profile.*
+
 <hr>
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
